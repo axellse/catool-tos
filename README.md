@@ -1,1 +1,2 @@
-# catool-tos
+- Privacy policy: [./privacy-policy.md](https://github.com/axellse/catool-tos/blob/main/privacy-policy.md)
+- TOS: [./tos.md](https://github.com/axellse/catool-tos/blob/main/tos.md)
