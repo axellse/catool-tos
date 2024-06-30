@@ -1,4 +1,4 @@
-# Catool privacy policy:
+# Catool privacy policy
 
 ## Disambiguation
 - “Catool” refers to the Catool Discord bot.
